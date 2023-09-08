@@ -8,6 +8,7 @@ namespace ProjectForGit
 {
     internal class UserStorage
     {
-        //изменения для подзадачи 4
+        
+        //изменения для task7
     }
 }

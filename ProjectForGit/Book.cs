@@ -8,6 +8,6 @@ namespace ProjectForGit
 {
     internal class Book
     {
-        //изменения для подзадачи 4
+        public int MyProperty { get; set; }
     }
 }
