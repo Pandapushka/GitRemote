@@ -8,6 +8,8 @@ namespace ProjectForGit
         {
             
             Console.WriteLine("Hello World!");
+
+            //Изменения для 7й задачи
         }
     }
 }
