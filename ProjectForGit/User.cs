@@ -10,7 +10,7 @@ namespace ProjectForGit
     {
         public User()
         {
-
+              //13 задача      
         }
     }
 }
